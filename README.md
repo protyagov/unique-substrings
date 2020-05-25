@@ -14,4 +14,4 @@ This is extencion of the first solution. I have added *memoization* to reduce ti
 
 According to LeetCode second solution performs 3x times faster than first one, and overall 83% faster among 176,000 acceptable submitted solutions.
 
-![Image of Yaktocat](https://github.com/protyagov/sudoku/blob/master/leetcode.png)
+![Image of Yaktocat](https://github.com/protyagov/unique-substrings/blob/master/leetcode.png)
