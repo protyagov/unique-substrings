@@ -44,6 +44,6 @@ Start at i = 0 and go forward until first out of order char. That be postion j. 
 Above solution runs at linear time, **O(n)** becaue we visti each character in the string p eaxactly once. Solution is memory eficient because it only uses 26 buckets to hold sums for each possible max sequence plus a few counters and string itself.
 
 
-LeetCode says my solution is faster than 80% online sumbissions in a pool of 23,790 solutions, and uses 100% less memory than all of them.
+LeetCode says my solution is faster than 80% of online submissions in a pool of 23,790 solutions, and uses 100% less memory among them.
 
 ![Image of Yaktocat](https://github.com/protyagov/unique-substrings/blob/master/leetcode.png)
